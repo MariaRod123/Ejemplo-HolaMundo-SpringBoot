@@ -1,7 +1,7 @@
 # Ejercicio básico de Spring
-El ejercicio consiste en crear un proyecto en Spring que muestre un HOLA MUNDO!
+El ejercicio consiste en crear un proyecto en Spring que muestre un HOLA MUNDO! 
 
-- Pasos a seguir
+Pasos a seguir
  
 - Crear un proyecto desde https://start.spring.io/  siguiendo los pasos que se indican en la imagen
  
@@ -14,9 +14,11 @@ El ejercicio consiste en crear un proyecto en Spring que muestre un HOLA MUNDO!
 ![2022-12-16_21h15_05](https://user-images.githubusercontent.com/72228855/208212350-532d3261-737b-44a4-b2ac-bd6bc1b46131.png)
 
 
-- Una vez que tenemos escrito el código que figura en la imagen anterior procedemos a ejecutar dicho programa
-   Para esto seguimos los siguientes pasos : 
-   ![2022-12-16_21h21_12](https://user-images.githubusercontent.com/72228855/208212581-3880ad7a-a4e1-464c-b613-d375c5cd54b4.png)
+- Una vez que tenemos escrito el código que figura en la imagen anterior procedemos a ejecutar dicho programa seguimos los siguientes pasos
+
+
+ ![2022-12-16_21h21_12](https://user-images.githubusercontent.com/72228855/208212581-3880ad7a-a4e1-464c-b613-d375c5cd54b4.png)
+ 
 
 - En la barra del navegador escribo localhost:8080/hola y se mostrará el siguiente resultado
 
